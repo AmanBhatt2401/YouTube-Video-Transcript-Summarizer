@@ -4,3 +4,4 @@ google-generativeai
 python-dotenv
 pathlib
 googletrans==4.0.0rc1
+gtts
